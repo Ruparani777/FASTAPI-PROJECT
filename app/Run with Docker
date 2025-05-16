@@ -1,0 +1,2 @@
+docker build -t fastapi-notes-api .
+docker run -p 8000:8000 fastapi-notes-api
